@@ -175,11 +175,4 @@ const tach=(input)=>{
   else{
     return input;
   }
-  // else if(input>=100000&&input<100000000)
-  // {
-  //   var a = input/1000;
-  //   var b = input%1000;
-  //   var c
-  //   return a+"."+b
-  // }
 };
